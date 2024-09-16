@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    text-align: center;
+    padding: 3%;
+}
+
+input{
+    height: 5vh;
+    width: 40vw;
+    padding-left: 1%;
+    margin-top: 5%;
+}
+
+.add{
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card{
+    height: 80vh;
+    width: 20vw;
+    border-radius: 2%;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
+    text-align: left;
+}
+
+.card img{
+    border-radius: 2%;
+}
+
+.card h3{
+    padding: 6% 0;
+}
