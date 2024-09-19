@@ -1,0 +1,24 @@
+Session 3:
+
+Why use react?
+
+1) Coding is easier.
+2) Single page app vs multipage app.
+3) Fast -> 
+4) Functions -> components
+5) State
+
+Others Libraries:
+1) Angular
+2) Vue.js
+3) Svelte
+
+Node, 
+
+npm - Node package managar.
+
+Vite: setup, compile, run, build -> easier for deployment
+
+jsx -> javascript xml
+
+babel -> compiles react code into js code
