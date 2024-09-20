@@ -1,0 +1,9 @@
+.forAll{
+  background: linear-gradient(60deg,darkblue);
+}
+
+.card_container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
